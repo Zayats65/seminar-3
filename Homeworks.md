@@ -2,7 +2,7 @@
 
 ## Bobal
 
-## Sangiovese
+## Viogner
 
 ## Pinot Noir
 
