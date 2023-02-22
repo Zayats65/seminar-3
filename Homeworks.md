@@ -1,6 +1,6 @@
 ## Cabernet Sauvignon
 
-## Merlot
+## Garnacha
 
 ## Sangiovese
 
