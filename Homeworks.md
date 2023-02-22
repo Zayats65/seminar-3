@@ -1,10 +1,6 @@
 ## Nebbiolo
 
-<<<<<<< HEAD
-## Bobal
-=======
 ## Garnacha
->>>>>>> rose
 
 ## Viogner
 
