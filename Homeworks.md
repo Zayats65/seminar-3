@@ -2,7 +2,7 @@
 
 ## Merlot
 
-## Sangiovese
+## Viogner
 
 ## Pinot Noir
 
