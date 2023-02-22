@@ -1,6 +1,6 @@
 ## Nebbiolo
 
-## Merlot
+## Bobal
 
 ## Sangiovese
 
